@@ -11,3 +11,6 @@ ES6
 #Run
 npm install
 npm start
+
+# ogt-reactjs
+Geek Time - Juin 2016 - Akram MONCER - Consultant - OLBATI
